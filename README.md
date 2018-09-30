@@ -1,3 +1,2 @@
-"# deneme" 
-"# Picasso" 
-"# Picasso" 
+
+"# Picasso Projesi"
